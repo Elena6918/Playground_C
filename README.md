@@ -1,2 +1,2 @@
 # Playground_C
-Little (and fun) projects programmed in C.
+Little (and fun) programs programmed in C.
